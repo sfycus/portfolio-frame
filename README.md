@@ -1,5 +1,7 @@
 # Фрейм
 
+[Открыть сайт](https://sfycus.github.io/portfolio-sites/sites/frame/) · [Каталог проектов](https://sfycus.github.io/portfolio-sites/)
+
 Фотолаборатория · самостоятельный сайт для портфолио.
 
 <img src="assets/hands-prints.jpg" alt="Фотография для проекта Фрейм" width="760">
